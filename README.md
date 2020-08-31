@@ -1,2 +1,3 @@
 # Dice
-Dice game
+
+Reload the browser to get the winner.
